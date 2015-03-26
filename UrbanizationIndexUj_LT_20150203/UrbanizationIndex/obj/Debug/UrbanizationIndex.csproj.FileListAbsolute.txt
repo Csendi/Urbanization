@@ -1,0 +1,389 @@
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.dll
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+D:\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+C:\_d\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+C:\_d\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+C:\_d\_imgproc\urbind\prg\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+F:\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+F:\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+F:\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+F:\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+F:\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+F:\UrbanizationIndex\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+F:\UrbanizationIndex\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+F:\UrbanizationIndex\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+F:\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+F:\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+F:\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+F:\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+F:\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+F:\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+d:\_summer\UrbanizationIndex_20130612 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+d:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+d:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+d:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+D:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+D:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+D:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+D:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+D:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+D:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+D:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+D:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+D:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+D:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+D:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+D:\_summer\UrbanizationIndex_20130612 -oldnet_skip\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+d:\_summer\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+d:\_summer\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+d:\_summer\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+C:\Users\lipovitsa\Dropbox\SZGabor\UrbanizationIndex_20130612 -oldnet_new\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+d:\_summer\UrbanizationIndex_20130705 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+d:\_summer\UrbanizationIndex_20130710 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130711 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130712 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+d:\_summer\Dropbox\SZGabor (1)\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130715 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+C:\Users\lipovitsa\Documents\_img\urban\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+D:\C\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+D:\C\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+D:\C\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+D:\C\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+D:\C\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+D:\C\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+D:\C\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+D:\C\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+D:\C\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+D:\C\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+D:\C\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+D:\C\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+D:\C\UrbanizationIndex_20130716 -oldnet\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+D:\C\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+D:\C\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+D:\C\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+D:\C\UrbanizationIndex\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+D:\C\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+D:\C\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+D:\C\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+D:\C\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+D:\C\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+D:\C\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+D:\C\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+D:\C\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+D:\C\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+d:\VS\Keszey\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+d:\VS\Keszey\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+d:\VS\Keszey\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+d:\VS\Keszey\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+d:\VS\Keszey\UrbanizationIndex\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+d:\VS\Keszey\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+d:\VS\Keszey\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+d:\VS\Keszey\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+d:\VS\Keszey\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+d:\VS\Keszey\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.ShowImage.resources
+d:\VS\Keszey\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+d:\VS\Keszey\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+d:\VS\Keszey\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndex\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.dll
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+C:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140724\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+C:\Users\Tomi\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\Ionic.Zip.dll
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\Ionic.Zip.dll
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140806\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\Ionic.Zip.dll
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+c:\Dropbox\VS\SzakmaiGyak\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe.config
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\UrbanizationIndex.exe
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\UrbanizationIndex.pdb
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\Ionic.Zip.dll
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.pdb
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\bin\Debug\Google.Api.Maps.Service.xml
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.csprojResolveAssemblyReference.cache
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\angle_converter.angle_converter.resources
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.Annotation.resources
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.Calc.resources
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.FrmUrb.resources
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.Properties.Resources.resources
+C:\Users\lipovitsa\Documents\_img\urban\prg\UrbanizationIndexUj_LT_20140827\UrbanizationIndexUj_LT_20140814\UrbanizationIndex\obj\Debug\UrbanizationIndex.csproj.GenerateResource.Cache

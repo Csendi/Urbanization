@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>libsvm.net</id>
+    <version>2.1.4</version>
+    <authors>nicolas.panel@live.fr</authors>
+    <owners>nicolas.panel@live.fr</owners>
+    <licenseUrl>https://github.com/nicolaspanel/libsvm.net#license</licenseUrl>
+    <projectUrl>https://github.com/nicolaspanel/libsvm.net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An easy and quick way to use libsvm in your .NET projects. Envoy !</description>
+    <releaseNotes />
+    <copyright>Copyright (C) 2013-2014 Nicolas Panel</copyright>
+    <tags>svm libsvm Machinelearning .net ikvm</tags>
+  </metadata>
+</package>

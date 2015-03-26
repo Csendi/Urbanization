@@ -1,0 +1,5 @@
+C:\Users\lipovitsa\Documents\_img\urban\20140921\projects\test\
+
+1.15 1.49 28 49 83 
+1.88 1.6 88 60 86 
+Success
